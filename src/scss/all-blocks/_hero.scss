@@ -1,0 +1,20 @@
+.hero {
+    position: relative;
+    margin-bottom: 115px;
+    &-box {
+        padding: 82px 0 0 99px;
+        width: 1110px;
+        height: 500px;
+        flex-shrink: 0;
+        background: #FFEFEC;
+    }
+    &-img-1 {
+        position: absolute;
+        z-index: 1;
+    }
+    &-img {
+        position: absolute;
+        left: 40%;
+        top: 0;
+    }
+}

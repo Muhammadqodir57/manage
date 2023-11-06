@@ -1,0 +1,130 @@
+.info {
+    margin-bottom: 64px;
+
+    .info-box {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &-line {
+        width: 350px;
+        height: 1px;
+        margin-bottom: 48px;
+        opacity: 0.15;
+        background: #33323D;
+    }
+
+    &-title {
+        color: #33323D;
+        font-size: 40px;
+        margin-bottom: 29px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 42px;
+        letter-spacing: -0.357px;
+    }
+
+    &-text {
+        width: 350px;
+        color: #33323D;
+        margin-bottom: 23px;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+    }
+}
+
+.info-title-2 {
+    color: #5FB4A2;
+    font-size: 16px;
+    margin-bottom: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.info-title-3 {
+    color: #5FB4A2;
+    margin-bottom: 32px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.info-btn {
+    color: #33323D;
+    padding: 17px 34px;
+    margin-bottom: 48px;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.info-line-2 {
+    width: 350px;
+    height: 1px;
+    opacity: 0.15;
+    background: #33323D;
+}
+
+.info-right-box {
+    margin-left: 125px;
+}
+
+.info-right-title {
+    margin-bottom: 28px;
+    color: #33323D;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: -0.286px;
+}
+
+.info-right-text {
+    width: 605px;
+    color: #33323D;
+    margin-bottom: 40px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    opacity: 0.8;
+}
+
+.info-right-title-2 {
+    color: #33323D;
+    font-size: 32px;
+    margin-bottom: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: -0.286px;
+}
+
+.info-right-list {
+    display: flex;
+}
+
+.info-right-img {
+    padding: 43px 51px 0 51px;
+    margin-bottom: 32px;
+    background: #FFEFEC;
+}
+
+.info-right-item {
+    background: #FFEFEC;
+}
+
+.info-right-item-img {
+    padding: 58px 0 0 51px;
+}
+
+.info-right-item-img-3 {
+    padding: 0 51px 57px 0;
+}
